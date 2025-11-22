@@ -64,6 +64,14 @@ __Output:__
 
 <img width="630" height="469" alt="image" src="https://github.com/user-attachments/assets/800c4e73-9b58-4bed-bff7-a02271bfe461" />
 
+__Tabulation:__
+
+<img width="799" height="614" alt="image" src="https://github.com/user-attachments/assets/d8a62539-08ad-4233-99e0-86cd9e3ae662" />
+
+__Calculation:__
+
+<img width="948" height="285" alt="image" src="https://github.com/user-attachments/assets/1b80c1f7-125e-40c0-9158-5b94ae613ae3" />
+
 
 __Result:__
 
